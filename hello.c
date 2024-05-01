@@ -1,4 +1,4 @@
 #include<stdio.h>
 void main(){
-printf("hello7");
+printf("hello陆杰安");
 }
